@@ -1,5 +1,9 @@
+  <p align="center">
+  <img src="./github-header-image.png" alt=""/>
+</p>
+  
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="200"/>
+ 
   <div id="badges">
     <a href="https://www.linkedin.com/in/italoengdev/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,8 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=italoengdev&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there, Welcome Aboard!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Welcome Aboard!
   </h1>
 </div>
 
@@ -37,6 +40,8 @@ I am a Front-end Stack Developer on construction <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Boots" width="40" height="40"/>
+  
 </div>
 
 ---
