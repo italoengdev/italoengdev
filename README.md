@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front-end Stack Developer on construction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Teresina, PI-Brazil.
-- :telescope: I’m studing HTML, CSS, JavaScript and ReactJS for building web applications.
+- :telescope: I’m studing HTML, CSS, JavaScript, ReactJS and Outsystems for building web applications.
 
 - :seedling: Patience, Focus and Peace.
 
